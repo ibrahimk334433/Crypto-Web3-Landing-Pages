@@ -15,7 +15,7 @@ A futuristic spatial computing agency landing page.
 - **Key Features:** Immersive mesh gradients, ultra-low latency showcase, and haptic integration concepts.
 - **Tech:** HTML5, Tailwind CSS.
 
-  ](https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Neural%20Horizon.html)
+  https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Neural%20Horizon.html)
 
 
 ### ✒️ 3. LUMINA (Iris & Ink)
