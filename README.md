@@ -15,6 +15,8 @@ A minimalist photography and architectural portfolio.
 - **Key Features:** Clean editorial layout, high-end visual storytelling, and responsive image galleries.
 - **Tech:** HTML5, Tailwind CSS.
 
+- https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Iris%20&%20Ink.html
+
 
 ### 📊 3. NexaTrade Pro (Quantitative Trading)
 An institutional AI-powered trading interface.
