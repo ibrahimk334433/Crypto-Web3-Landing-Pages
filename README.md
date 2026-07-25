@@ -17,10 +17,3 @@ A minimalist photography and architectural portfolio.
 
 - https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Iris%20&%20Ink.html
 
-
-### 📊 3. NexaTrade Pro (Quantitative Trading)
-An institutional AI-powered trading interface.
-- **Key Features:** Live signal feeds, real-time price tracking, and institutional pattern recognition.
-- **Tech:** HTML5, Tailwind CSS, JavaScript.
-
-https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Quantitative%20Trading.html
