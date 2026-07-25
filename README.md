@@ -18,7 +18,7 @@ A minimalist photography and architectural portfolio.
 - https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Iris%20&%20Ink.html
   
 
-- 3. ⚡ **SYNCROMIND (AI Automation Dashboard)**
+### ⚡ 3. **SYNCROMIND (AI Automation Dashboard)**
 A next-generation AI automation engine and workflow dashboard.
 
 * **Key Features:** Glassmorphism UI, real-time system stats, and scalable enterprise architecture.
