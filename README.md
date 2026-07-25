@@ -16,4 +16,18 @@ A minimalist photography and architectural portfolio.
 - **Tech:** HTML5, Tailwind CSS.
 
 - https://ibrahimk334433.github.io/Crypto-Web3-Landing-Pages/Iris%20&%20Ink.html
+  
+
+- 3. ⚡ **SYNCROMIND (AI Automation Dashboard)**
+A next-generation AI automation engine and workflow dashboard.
+
+* **Key Features:** Glassmorphism UI, real-time system stats, and scalable enterprise architecture.
+* **Tech:** HTML5, Tailwind CSS.
+
+* **Live Demo:** [https://ibrahimk34433.github.io/Crypto-Web3-Landing-Pages/AI-Automation-Dashboard.html](https://ibrahimk34433.github.io/Crypto-Web3-Landing-Pages/AI-Automation-Dashboard.html)
+
+
+
+
+  
 
